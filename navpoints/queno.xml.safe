@@ -1,0 +1,27 @@
+﻿<navpoint>
+  <id>queno</id>
+  <newId>0</newId>
+  <type>page</type>
+  <label>ToolTwist Demo</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <notes>Various navpoints expected by ToolTwist Demo</notes>
+  <onlyContainsAliases>N</onlyContainsAliases>
+  <navpoint>
+    <id>1</id>
+    <newId>1</newId>
+    <type>page</type>
+    <label>Home</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <pageWidget>queno.pages.queno_p_homepage</pageWidget>
+    <navpoint>
+      <id>2</id>
+      <newId>2</newId>
+      <type>page</type>
+      <label>New Navpoint</label>
+      <url></url>
+      <useSSL>N</useSSL>
+    </navpoint>
+  </navpoint>
+</navpoint>
